@@ -1,6 +1,6 @@
 # They Commerce
 
-It is build with HTML, CSS/SASS, JavaScript and PHP. 
+The website is build with HTML, CSS/SASS, JavaScript and PHP. 
 
 ## Motivation
 
